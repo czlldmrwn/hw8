@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StoreApp</string>
+    <string name="name">Название магазина</string>
+    <string name="address">Адрес магазина</string>
+    <string name="hoursOpen">Время открытия</string>
+    <string name="hoursClose">Время закрытия</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="insert_error">Ошибка при добавлении записи</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+</resources>
